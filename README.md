@@ -22,7 +22,8 @@ The GRC Risk Management Simulation Lab is about identifying cyber-risks and the 
 
 ## Steps
 
-[Steve Gennarelli GRC PHase 4 Final Project Risk Register - Google Sheets.pdf](https://github.com/sgennarelli13/GRC-Lab/files/15255714/Steve.Gennarelli.GRC.PHase.4.Final.Project.Risk.Register.-.Google.Sheets.pdf)
+![Screenshot 2024-05-08 185049](https://github.com/sgennarelli13/GRC-Lab/assets/152432975/cea85684-fd2f-4f9a-b8a2-53581cd6cc53)
+
 
 drag & drop screenshots here or use imgur and reference them using imgsrc
 
