@@ -1,4 +1,4 @@
-# GRC Risk Management Simulation-Lab
+# **GRC Risk Management Simulation**
 
 ## Objective
 
