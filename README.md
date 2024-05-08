@@ -19,20 +19,20 @@ The GRC Risk Management Simulation Lab is about identifying cyber-risks and the 
 
 ## Steps
 
-1- Create a Risk Register and catalog all information necessary to assess each risk item. 
+1- **Create a Risk Register and catalog all information necessary to assess each risk item.** 
 
 ![Screenshot 2024-05-08 185049](https://github.com/sgennarelli13/GRC-Lab/assets/152432975/cea85684-fd2f-4f9a-b8a2-53581cd6cc53)
 *Ref 1: Risk Register*
 
-2- Identify risk treatments for each item and their corresponding NIST Catalog controls.
+2- **Identify risk treatments for each item and their corresponding NIST Catalog controls.**
 
-3- Calculate residual risk and determine if they meet acceptable levels.
+3- **Calculate residual risk and determine if they meet acceptable levels.**
 
 <img width="641" alt="Screenshot 2024-05-08 190225" src="https://github.com/sgennarelli13/GRC-Lab/assets/152432975/02fd83b9-188a-4317-9ccc-09a09adbf556">
 
 *Ref 2 & 3: Risk treatments, controls, and residual ratings* 
 
-4- Create slideshow presentation for upper management.
+4- **Create a slideshow presentation for upper management.**
 
 <img width="719" alt="1" src="https://github.com/sgennarelli13/GRC-Lab/assets/152432975/21825b57-f148-46bd-81dd-a6927ebfccc9">
 <img width="719" alt="slide 2" src="https://github.com/sgennarelli13/GRC-Lab/assets/152432975/a4d92a6c-6868-4492-8863-4789aa6c18f5">
