@@ -35,4 +35,29 @@ The GRC Risk Management Simulation Lab is about identifying cyber-risks and the 
 
 *Ref 2- Risk treatments, controls, and residual ratings* 
 
+4- Create slideshow presentation for upper management.
+
+<img width="719" alt="1" src="https://github.com/sgennarelli13/GRC-Lab/assets/152432975/21825b57-f148-46bd-81dd-a6927ebfccc9">
+<img width="719" alt="slide 2" src="https://github.com/sgennarelli13/GRC-Lab/assets/152432975/a4d92a6c-6868-4492-8863-4789aa6c18f5">
+<img width="719" alt="slide 3" src="https://github.com/sgennarelli13/GRC-Lab/assets/152432975/a705e789-9c89-4fa1-90be-1a33e7ec2a73">
+<img width="720" alt="4" src="https://github.com/sgennarelli13/GRC-Lab/assets/152432975/bbee3486-346a-4797-af1f-eb1c8687d25a">
+<img width="722" alt="5" src="https://github.com/sgennarelli13/GRC-Lab/assets/152432975/25ca39ed-d981-4c8f-b36c-e07372e29c22">
+<img width="717" alt="6" src="https://github.com/sgennarelli13/GRC-Lab/assets/152432975/7c26f65c-b803-45d7-a586-d883bcc24766">
+<img width="719" alt="7" src="https://github.com/sgennarelli13/GRC-Lab/assets/152432975/0e373f78-1ed3-4b50-83ee-367453451d16">
+<img width="717" alt="8" src="https://github.com/sgennarelli13/GRC-Lab/assets/152432975/42b84dbe-ac36-4b11-a918-3fa84dfafd1b">
+<img width="721" alt="9" src="https://github.com/sgennarelli13/GRC-Lab/assets/152432975/c70e28e2-e4d7-49ed-b62d-3c197c41a4be">
+<img width="716" alt="10" src="https://github.com/sgennarelli13/GRC-Lab/assets/152432975/60bde7f2-52ce-4a32-9c4f-e8c13564684e">
+<img width="716" alt="11" src="https://github.com/sgennarelli13/GRC-Lab/assets/152432975/934d4fbf-ee07-40d5-8682-1dad153c9ccc">
+<img width="718" alt="12" src="https://github.com/sgennarelli13/GRC-Lab/assets/152432975/54e2fbd4-7dff-4f98-9b0b-65a2453068cd">
+<img width="719" alt="13" src="https://github.com/sgennarelli13/GRC-Lab/assets/152432975/29b416c5-eb7e-46aa-bcfd-faf9978bb9fa">
+<img width="719" alt="14" src="https://github.com/sgennarelli13/GRC-Lab/assets/152432975/98216f69-cf86-4cf1-9a39-ad35e0ab102a">
+<img width="716" alt="15" src="https://github.com/sgennarelli13/GRC-Lab/assets/152432975/19120411-164d-484a-8e94-c54bee5bcdd6">
+
+
+
+
+
+
+
+
 
