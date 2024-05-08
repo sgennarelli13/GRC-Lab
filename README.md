@@ -22,7 +22,9 @@ The GRC Risk Management Simulation Lab is about identifying cyber-risks and the 
 
 ## Steps
 
+1- Create a Risk Register and catalog all information necessary to assess each risk item. 
 ![Screenshot 2024-05-08 185049](https://github.com/sgennarelli13/GRC-Lab/assets/152432975/cea85684-fd2f-4f9a-b8a2-53581cd6cc53)
+*Ref 1: Risk Register*
 
 
 drag & drop screenshots here or use imgur and reference them using imgsrc
