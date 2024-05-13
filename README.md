@@ -13,7 +13,7 @@ The GRC Risk Management Simulation lab is about identifying cyber risks and the 
 
 ### Tools Used
 
-- *NST sp 800-53r5 Control Catalog* for identifying risk controls
+- *NIST sp 800-53r5 Control Catalog* for identifying risk controls
 - *NIST CSF to HIPPA Security Crosswalk* for identifying aditional risks and possible gaps in the risk management program
 - *NIST SP800-53r5 Risk Assessment Procedures* for calculating residual risk
 
