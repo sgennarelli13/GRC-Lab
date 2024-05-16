@@ -2,7 +2,7 @@
 
 ## Objective
 
-The GRC Risk Management Simulation lab is about identifying cyber risks and the controls used to mitigate them. The primary objective was to develop a risk register for a fictional healthcare organization and then identify the necessary controls for each register item. In addition, the Risk Managament plan was to be translated into a slideshow presentation for upper management with the goal of obtaining corporate buy-in. This lab uses real-world tools to deepen understanding of risk assessment and communication concepts.
+The GRC Risk Management Simulation lab is about identifying cyber risks and the controls used to mitigate them. The primary objective was to develop a risk register for a major healthcare organization, and then identify the necessary controls for each register item. In addition, the Risk Managament plan was to be translated into a slideshow presentation for upper management with the goal of obtaining corporate buy-in. This lab uses real-world tools to deepen understanding of risk assessment and communication concepts.
 
 ### Skills Learned
 
