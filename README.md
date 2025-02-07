@@ -9,7 +9,7 @@ The GRC Risk Management Simulation lab is about identifying cyber risks and the 
 - Ability to create and utilize a risk register
 - Experience identifying controls and mitigating risk
 - Development of risk communication skills
-- Further understanding of the NST Risk Management Framework
+- Further understanding of the NIST Risk Management Framework
 
 ### Tools Used
 
